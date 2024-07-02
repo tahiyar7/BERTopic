@@ -8,5 +8,5 @@ The Model will run for to get the most reviewed content for the Spotify! and Res
 # Happy Coding with Bertopic :) 
 
 
+![image](https://github.com/tahiyar7/BERTopic/assets/105504069/ff759005-9c61-47ff-a5f1-0dacf533b79f)
 
-![image.png](attachment:87de3eac-d09f-42b6-8787-aeda793adc02.png)
